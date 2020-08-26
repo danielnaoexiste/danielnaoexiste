@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=danielnaoexiste&show_icons=true">
-
 ### Hello There;
 
 [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://danielnaoexiste.github.io/)
@@ -11,3 +9,5 @@
 👨‍💼 Full-stack web developer and indie game dev; <br>
 👨‍🎓 Graduating Information Systems at UNIFEI - Brazil; <br>
 📺 **Currently Working at:** Hivelabs 
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=danielnaoexiste&show_icons=true">
