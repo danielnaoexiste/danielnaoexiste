@@ -8,7 +8,7 @@
   
   
 👨‍💻 20 Years old; <br>
-👨‍💼 Full-stack web developer and indie game dev; <br>
+👨‍💼 Full-stack web developer and indie gamedev; <br>
 👨‍🎓 Graduating Information Systems at UNIFEI - Brazil; <br>
 📺 **Currently Working at:** Hivelabs 
 
