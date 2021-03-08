@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  💌 Contact: ⤵️
+  💌 Contact:
 </p>
 
 <p align="left">
