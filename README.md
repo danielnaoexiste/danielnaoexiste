@@ -10,14 +10,6 @@
 </p>
 
 <p align="left">
-  🦄 Languages: VueJS; React; React Native; NodeJS; HTML; CSS; Javascript; Lua; Python; Bootstrap.
-</p>
-
-<p align="left">
-  💼 Tools: VSCode; Figma; Git; Aseprite; Unity; Godot; Love2D.
-</p>
-
-<p align="left">
   💌 Contact:
 </p>
 
