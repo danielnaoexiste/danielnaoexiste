@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/danielnaoexiste/danielnaoexiste/master/image.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Programmer">
 
 <p align="left"> 
-  👨‍💻 21 Years old; <br>
+  👨‍💻 22 Years old; <br>
   👨‍💼 Full-stack web developer and indie gamedev; <br>
   👨‍🎓 Graduating Information Systems at UNIFEI - Brazil; <br>
   📺 <b>Currently Working @</b> aiqfome 
