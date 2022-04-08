@@ -6,7 +6,7 @@
   👨‍💻 22 Years old; <br>
   👨‍💼 Front-end developer and indie gamedev; <br>
   👨‍🎓 Graduating Information Systems at UNIFEI - Brazil; <br>
-  📺 <b>Currently Working @</b> aiqfome 
+  📺 <b>Currently Working @</b> CI&T 
 </p>
 
 <p align="left">
