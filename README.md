@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;Indie+Game+Developer&center=true&width=380&height=45&color=F769C2"></a>
 </p>
 
-<img align="left" src="https://i.pinimg.com/564x/f8/15/09/f8150915fe3e9619c0bfad0e86e63445.jpg" alt="Golden Boy (1995) - Computer" width="380px" height='270px' />
+<img align="left" src="https://raw.githubusercontent.com/danielnaoexiste/danielnaoexiste/master/golden-boy-computer.jpg" alt="Golden Boy (1995) - Computer" width="380px" height='270px' />
 
 <hr>
 
