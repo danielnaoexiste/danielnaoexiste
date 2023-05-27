@@ -12,7 +12,7 @@
 
 <pre><code>👨‍💻 danielnaoexiste@github
 --------------------------
-🚀 I'm currently working on <a href='http://froggy.danielnaoexiste.dev' target="_blank">Froggy</a>.
+🚀 I'm currently working on <a href='http://froggy.dangazzaneo.dev' target="_blank">Froggy</a>.
 💻 I am a Front-end and Indie Game Developer
 🎵 Love powermetal, indie-rock, lofi, jazz and folk.
 📺 Currently Working as a Front-end Developer @ <a href='https://ciandt.com' target="_blank">CI&T</a>.
