@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;Indie+Game+Developer&center=true&width=380&height=45&color=F769C2"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;Indie+Game+Developer;Musician&center=true&width=380&height=45&color=F769C2"></a>
 </p>
 
 <img align="left" src="https://raw.githubusercontent.com/danielnaoexiste/danielnaoexiste/master/golden-boy-computer.jpg" alt="Golden Boy (1995) - Computer" width="380px" height='265px' />
@@ -13,9 +13,9 @@
 <pre><code>👨‍💻 danielnaoexiste@github
 --------------------------
 🚀 I'm currently working on <a href='http://froggy.dangazzaneo.dev' target="_blank">Froggy</a>.
-💻 I am a Front-end and Indie Game Developer
+💻 I am a front-end and indie game developer
 🎵 Love powermetal, indie-rock, lofi, jazz and folk.
-📺 Currently Working as a Senior Front-end Developer @ <a href='https://ciandt.com' target="_blank">CI&T</a>.
+📺 Currently working as a Senior Front-end Developer @ <a href='https://ciandt.com' target="_blank">CI&T</a>.
 </code></pre>
 
 <p align="left">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:contato@danielnaoexiste.dev" target="_blank" alt="Gmail">
+  <a href="mailto:contact@dangazzaneo.dev" target="_blank" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:danieldenardo1@gmail.com" />
   </a>
 
