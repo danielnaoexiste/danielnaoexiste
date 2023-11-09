@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/danielnaoexiste" />
   </a>
   
-  <a href="https://danielnaoexiste.dev" target="_blank" alt="Portfolio">
+  <a href="https://dangazzaneo.dev" target="_blank" alt="Portfolio">
     <img src="https://img.shields.io/badge/-Portfolio-DF0174?style=for-the-badge&logo=github&logoColor=white&link=https://danielnaoexiste.github.io" />
   </a>
 </p>  
