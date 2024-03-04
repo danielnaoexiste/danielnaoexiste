@@ -23,7 +23,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:contact@dangazzaneo.dev" target="_blank" alt="Gmail">
+  <a href="mailto:danieldenardo1@gmail.com" target="_blank" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:danieldenardo1@gmail.com" />
   </a>
 
