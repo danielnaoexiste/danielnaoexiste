@@ -15,7 +15,7 @@
 🚀 I'm currently working on <a href='http://froggy.dangazzaneo.dev' target="_blank">Froggy</a>.
 💻 I am a front-end and indie game developer
 🎵 Love powermetal, indie-rock, lofi, jazz and folk.
-📺 Currently working as a Senior Front-end Developer @ <a href='https://ciandt.com' target="_blank">CI&T</a>.
+📺 Currently working as a Software Architect / Tech Lead @ <a href='https://ciandt.com' target="_blank">CI&T</a>.
 </code></pre>
 
 <p align="left">
