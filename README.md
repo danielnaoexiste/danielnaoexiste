@@ -13,7 +13,7 @@
 <pre><code>👨‍💻 danielnaoexiste@github
 --------------------------
 🚀 I'm currently working on <a href='http://froggy.dangazzaneo.dev' target="_blank">Froggy</a>.
-💻 I am a front-end and indie game developer
+💻 I am a front-end and indie game developer.
 🎵 Love powermetal, indie-rock, lofi, jazz and folk.
 📺 Currently working as a Software Architect / Tech Lead @ <a href='https://ciandt.com' target="_blank">CI&T</a>.
 </code></pre>
@@ -26,12 +26,13 @@
   <a href="mailto:danieldenardo1@gmail.com" target="_blank" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:danieldenardo1@gmail.com" />
   </a>
-
   <a href="https://linkedin.com/in/dangazzaneo" target="_blank" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/danielnaoexiste" />
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/dangazzaneo" />
   </a>
-  
   <a href="https://dangazzaneo.dev" target="_blank" alt="Portfolio">
-    <img src="https://img.shields.io/badge/-Portfolio-DF0174?style=for-the-badge&logo=github&logoColor=white&link=https://danielnaoexiste.github.io" />
+    <img src="https://img.shields.io/badge/-Portfolio-DF0174?style=for-the-badge&logo=github&logoColor=white&link=https://dangazzaneo.dev" />
+  </a>
+   <a href="https://cv.dangazzaneo.dev" target="_blank" alt="Portfolio">
+    <img src="https://img.shields.io/badge/-CV-282d34?style=for-the-badge&logo=nextdotjs&logoColor=white&link=https://cv.dangazzaneo.dev" />
   </a>
 </p>  
