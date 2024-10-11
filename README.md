@@ -18,21 +18,10 @@
 📺 Currently working as a Software Architect @ <a href='https://ciandt.com' target="_blank">CI&T</a>.
 </code></pre>
 
-<p align="left">
-  💌 Contact:
-</p>
 
-<p align="left">
-  <a href="mailto:danieldenardo1@gmail.com" target="_blank" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:danieldenardo1@gmail.com" />
-  </a>
-  <a href="https://linkedin.com/in/dangazzaneo" target="_blank" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/dangazzaneo" />
-  </a>
-  <a href="https://dangazzaneo.dev" target="_blank" alt="Portfolio">
-    <img src="https://img.shields.io/badge/-Portfolio-DF0174?style=for-the-badge&logo=github&logoColor=white&link=https://dangazzaneo.dev" />
-  </a>
-   <a href="https://cv.dangazzaneo.dev" target="_blank" alt="Portfolio">
-    <img src="https://img.shields.io/badge/-CV-282d34?style=for-the-badge&logo=nextdotjs&logoColor=white&link=https://cv.dangazzaneo.dev" />
-  </a>
-</p>  
+💌 Contact:
+
+<a href="mailto:danieldenardo1@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:danieldenardo1@gmail.com" /></a>
+<a href="https://linkedin.com/in/dangazzaneo" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/dangazzaneo" /></a>
+<a href="https://dangazzaneo.dev" target="_blank" alt="Portfolio"><img src="https://img.shields.io/badge/-Portfolio-DF0174?style=for-the-badge&logo=github&logoColor=white&link=https://dangazzaneo.dev" /></a>
+<a href="https://cv.dangazzaneo.dev" target="_blank" alt="Portfolio"><img src="https://img.shields.io/badge/-CV-282d34?style=for-the-badge&logo=nextdotjs&logoColor=white&link=https://cv.dangazzaneo.dev" /></a>
